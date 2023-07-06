@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 ## Bem-vindo(a) ao meu perfil 😁
 
  <div align="center">
-   <a href="https://github.com/Thiago051">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiago051&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago051&layout=compact&langs_count=6&theme=aura"/>
-</div> 
+  <a href="https://github.com/Thiago051">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiago051&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago051&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
  
 
 <!-- https://devicon.dev/ -->
